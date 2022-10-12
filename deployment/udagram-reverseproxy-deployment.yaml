@@ -15,7 +15,7 @@ spec:
         service: udagram-reverseproxy
     spec:
       containers:
-      - image: ademustexcel/udagram-reverseproxy:v1
+      - image: ademustexcel/udagram-reverseproxy:v2
         name: udagram-reverseproxy
         imagePullPolicy: Always          
         resources:

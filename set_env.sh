@@ -2,9 +2,9 @@
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
 export POSTGRES_USERNAME=postgres
 export POSTGRES_PASSWORD=postgres
-export POSTGRES_HOST=postgres.cuwwqqeymdw5.us-east-2.rds.amazonaws.com
+export POSTGRES_HOST=postgres.coo9pklinzfq.us-east-2.rds.amazonaws.com
 export POSTGRES_DB=postgres
-export AWS_BUCKET=walemono
+export AWS_BUCKET=usmanmono
 export AWS_REGION=us-east-2
 export AWS_PROFILE=default
 export JWT_SECRET=testing

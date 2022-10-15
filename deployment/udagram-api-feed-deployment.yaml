@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: udagram-api-feed
-          image: ademustexcel/udagram-api-feed:v2
+          image: ademustexcel/udagram-api-feed:v1
           imagePullPolicy: Always
           resources:
             requests:

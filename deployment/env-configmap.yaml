@@ -5,10 +5,10 @@ metadata:
 data:
     POSTGRES_USERNAME: postgres
     POSTGRES_PASSWORD: postgres
-    POSTGRES_HOST: postgres.cixkqgmxxy3q.us-east-2.rds.amazonaws.com
+    POSTGRES_HOST: postgres.c79iny9neqgo.us-west-2.rds.amazonaws.com 
     POSTGRES_DB: postgres
-    AWS_BUCKET: nov16bucket
-    AWS_REGION: us-east-2
+    AWS_BUCKET: nov17bucket
+    AWS_REGION: us-west-2
     AWS_PROFILE: default
     JWT_SECRET: testing
     URL: http://localhost:8100
